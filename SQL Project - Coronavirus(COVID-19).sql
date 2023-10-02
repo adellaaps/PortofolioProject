@@ -1,7 +1,9 @@
-*/ Covid 19 Data Exploration 
-Source Our World in Data: Coronavirus(COVID-19) Deaths
-link data = https://ourworldindata.org/covid-deaths
+/* Covid 19 Data Exploration 
+Source data = Our World in Data: Coronavirus(COVID-19) Deaths
 
+Skill used = Windows Functions, Aggregate Functions, Creating Views, Converting Data Types Joins, CTE's
+
+*/
 
 --- Covid Deaths 
 Select * 
